@@ -2,8 +2,8 @@
 
 İnat BOX
 
-https://www.virustotal.com/gui/file/bfb72861997316a0c5fe691af7fd6937abf75c277d7afd5600d524e26ba56ac4
+https://www.virustotal.com/gui/file/b9c2bdd76d905f470af7bddfd0b6ea52b9f01a193f17b013650e80063dc406ae
 
 İnat TV PRO
 
-https://www.virustotal.com/gui/file/05368bb1b1e9a0867ab0869f121422f30bd57d0580b75a99b79bde1849b59f08
+https://www.virustotal.com/gui/file/4386d941b8f5003a7d851edaff314a3ce1fc701a0f44c020968d8fe29cb7ed84
